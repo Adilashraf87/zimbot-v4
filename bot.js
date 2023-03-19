@@ -37,14 +37,14 @@ global.APIKeys = {
 global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
-global.owner = ['+447441437150',''] //owner number ++447441437150
+global.owner = ['+917736382521',''] //owner number ++447441437150
 global.wame = ['+447441437150'] 
 global.pemilik = ['+447441437150'] //owner number ++447441437150
 global.premium = ['+447441437150'] //premium number ++447441437150
 global.pengguna = 'Drips' //username
 global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
+global.botnma = 'SHADOW' //bot name
+global.botname = 'ᴵᴬᴹ𐍃ʜ𐌡ᴅ𐌏ᴡ랜 '
 global.ownernma = 'Drips' //owner name
 global.packname = 'Drips' //sticker package name
 global.author = 'By Drips Memes' //sticker author name
